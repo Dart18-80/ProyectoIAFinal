@@ -112,5 +112,5 @@ Luego abre `frontend/templates/index.html` en tu navegador.
 
 ## 🧠 Créditos
 
-Proyecto académico desarrollado como entrega final del curso de Inteligencia Artificial.
-Autores: Diego Ruiz (1037419) y Fernanda Caneses (1187820)
+* Proyecto académico desarrollado como entrega final del curso de Inteligencia Artificial.
+* Autores: Diego Ruiz (1037419) y Fernanda Caneses (1187820)
